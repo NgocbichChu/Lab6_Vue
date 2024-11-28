@@ -8,7 +8,7 @@
                     <div class="card-body">
                         <h4 class="card-title">{{ item.title }}</h4>
                         <p class="card-text">{{ item.content }}</p>
-                        <button class="btn btn-info">Xem chi tiết </button>
+                        <button class="btn btn-primary">Xem chi tiết </button>
                     </div>
                 </div>
             </div>

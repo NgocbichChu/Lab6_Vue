@@ -58,7 +58,7 @@
     
     const students = ref ([
         { name: 'Chu Thị Ngọc Bích', dob: '2005-01-26', score: 8 },
-        { name: 'Lê Thị Thanh Nguyên', dob: '2006-06-17', score: 9 }
+        { name: 'Lê Thị Thanh Nguyên', dob: '2005-06-17', score: 9 }
     ])
 
     const student = ref ({
